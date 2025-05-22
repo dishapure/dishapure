@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dishapure
 - 👀 I’m interested in learning new languages and code!
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate in internships
-- 📫 How to reach me god knows!!
+- 💞️ I’m looking to collaborate in internships and projects
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love myself!
 
