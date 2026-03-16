@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate in internships and projects
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love myself!
+- ⚡ Fun fact: I love to cloud security!
 
 <!---
 dishapure/dishapure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
